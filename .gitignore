@@ -7,3 +7,7 @@ dist/
 *.tsbuildinfo
 packages/cli/templates/
 test-*/
+
+# Template scaffolding lockfiles (not committed)
+packages/templates/*/pnpm-lock.yaml
+packages/cli/templates/*/pnpm-lock.yaml

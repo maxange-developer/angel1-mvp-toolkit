@@ -1,6 +1,6 @@
 {
   "name": "@massiangelone/angel1-mvp-toolkit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Scaffold production-ready Next.js + Supabase apps with multi-provider AI (Claude, OpenAI, or both)",
   "license": "MIT",
   "author": "Massimiliano Angelone <massiangelone01@gmail.com>",
